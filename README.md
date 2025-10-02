@@ -1,8 +1,7 @@
 
 
-![Cortador CNC](https://upload.wikimedia.org/wikipedia/commons/3/3c/End_mill_icon.svg)
+<h1><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/End_mill_icon.svg" width="24"> Cortadora CNC – PREDICCIÓN DE FALLAS EN HERRAMIENTAS ROTATIVAS INDUSTRIALES</h1>
 
-# PREDICCIÓN DE FALLAS EN HERRAMIENTAS ROTATIVAS INDUSTRIALES
 
 ## 📝 DESCRIPCIÓN DEL PROYECTO
 Este análisis se enfoca en anticipar fallas en herramientas rotativas mediante la clasificación técnica del desgaste. Se definió un umbral crítico en `tool_wear_level` (≥ 80.06) que permite identificar registros con alto riesgo de falla. El objetivo es optimizar el mantenimiento predictivo, priorizar revisiones y reducir paros no planeados.

@@ -1,7 +1,6 @@
 
-![Cortador Izquierdo](https://cdn-icons-png.flaticon.com/128/11699/11699896.png)
-# PREDICCIÓN DE FALLAS EN HERRAMIENTAS ROTATIVAS INDUSTRIALES
-![Cortador Derecho](https://cdn-icons-png.flaticon.com/128/11699/11699896.png)
+
+![Cortador CNC](https://upload.wikimedia.org/wikipedia/commons/3/3c/End_mill_icon.svg # PREDICCIÓN DE FALLAS EN HERRAMIENTAS ROTATIVAS INDUSTRIALES
 
 ## 📝 DESCRIPCIÓN DEL PROYECTO
 Este análisis se enfoca en anticipar fallas en herramientas rotativas mediante la clasificación técnica del desgaste. Se definió un umbral crítico en `tool_wear_level` (≥ 80.06) que permite identificar registros con alto riesgo de falla. El objetivo es optimizar el mantenimiento predictivo, priorizar revisiones y reducir paros no planeados.
@@ -27,4 +26,4 @@ El árbol de decisión entrenado muestra que `tool_wear_level` es suficiente par
 - Gini = 0.0 en ambas ramas → separación perfecta
 
 ## 📈 CONCLUSIÓN OPERATIVA
-Este proyecto demuestra que un criterio técnico bien definido puede ser validado con Machine Learning sin necesidad de modelos complejos. El enfoque es explicable, funcional y aplicable directamente en planta.
+El análisis confirma que el desgaste crítico en herramientas rotativas puede anticipar falla con precisión total. El criterio técnico es claro, el resultado es confiable, y la aplicación en planta es inmediata: prioriza revisiones, reduce paros y respalda decisiones de mantenimiento sin rodeos.

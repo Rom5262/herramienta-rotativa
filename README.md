@@ -1,5 +1,4 @@
 
-
 <h1><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/End_mill_icon.svg" width="24"> Cortadora CNC – PREDICCIÓN DE FALLAS EN HERRAMIENTAS ROTATIVAS INDUSTRIALES</h1>
 
 
